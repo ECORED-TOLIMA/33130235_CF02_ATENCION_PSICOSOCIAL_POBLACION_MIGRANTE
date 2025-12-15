@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
     
-
+    p Este componente formativo aborda la estrategia de acompañamiento psicosocial para población migrante, presentando sus fundamentos conceptuales, principios éticos y actores clave que participan en la intervención. Se exploran las etapas y fases del acompañamiento, así como las herramientas metodológicas y la coordinación interinstitucional necesarias para su implementación efectiva en contextos de movilidad humana. Además, se analiza el marco normativo que respalda la estrategia, incluyendo políticas nacionales e internacionales, lineamientos del Ministerio de Salud y Protección Social, y protocolos técnicos vigentes, con el fin de brindar a los aprendices las bases teóricas, prácticas y legales para desarrollar intervenciones psicosociales integrales y sostenibles.
+    
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se describe la estrategia de acompañamiento psicosocial para población migrante, sus fundamentos, actores, etapas de implementación, herramientas metodológicas y el marco normativo que la respalda, resaltando la coordinación interinstitucional y los principios que orientan la intervención.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
