@@ -16,7 +16,7 @@
 
     p.mb-5 Este marco incorpora los compromisos asumidos por el país en los ámbitos nacional e internacional, entre los que se destacan la Política Integral Migratoria (Ley 2136 de 2021), la Ley 1616 de 2013, que establece el marco de acción para la salud mental en Colombia, y las orientaciones del Ministerio de Salud y Protección Social, las cuales definen principios, enfoques y procedimientos para la intervención psicosocial en contextos de movilidad humana.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img02.png' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
@@ -186,8 +186,8 @@
         img(src='@/assets/curso/temas/img01.svg' style="max-width: 32px; margin-left: -16px;")
         h3.col.ps-3.mb-0 Ruta operativa para la implementación del acompañamiento psicosocial
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
+    .row.justify-content-center.mb-5
+      .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
          AcordionA.color-acento-botones(tipo="b" clase-tarjeta="tarjeta BG03" data-aos="zoom-in")
           div(titulo="Diagnóstico y caracterización")
             p.mb-0 Incluye identificación de necesidades individuales, familiares y comunitarias, mapeo de factores de riesgo y protección, y análisis de condiciones socioculturales de la población migrante y de acogida.
@@ -199,7 +199,7 @@
             p.mb-0 Monitorea avances, identifica alertas, retroalimenta el proceso y ajusta las estrategias según la evolución de los casos y la respuesta comunitaria.
           div(titulo="Retroalimentación interinstitucional")
             p.mb-0 Fortalece la coordinación entre sectores, garantiza continuidad en los procesos y facilita la articulación con salud, protección y cooperación internacional.
-      .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+      .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.px-4.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img16.png' alt="Imagen decorativa")
 
     p En conjunto, estos protocolos, rutas y guías técnicas conforman un marco integral que orienta a los equipos psicosociales en la identificación oportuna de riesgos, la intervención diferenciada y el seguimiento articulado de cada caso. Su aplicación permite responder de manera coordinada a las necesidades de las personas migrantes, garantizando procesos de acompañamiento que respetan su dignidad, reconocen sus trayectorias de vida y facilitan su acceso efectivo a servicios de salud, protección y bienestar. De este modo, se promueve una atención coherente con los estándares nacionales y con los principios de inclusión, interculturalidad y enfoque de derechos.

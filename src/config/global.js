@@ -357,7 +357,7 @@ export default {
       referencia:
         'Presidencia de la República de Colombia. (2021). Decreto 216 de 2021.',
       link:
-        'https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_0216_2021.htm',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=159606',
     },
     {
       referencia:

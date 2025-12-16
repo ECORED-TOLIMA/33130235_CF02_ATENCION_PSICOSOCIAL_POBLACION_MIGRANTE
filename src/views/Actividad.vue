@@ -15,7 +15,8 @@ export default {
     cuestionario: {
       tema: 'tema_actividad_didactica',
       titulo: 'Cuestionario',
-      introduccion: 'texto_introductorio_actividad_didactica',
+      introduccion:
+        'Evaluar la comprensión de los aprendices sobre los fundamentos, etapas, herramientas y marco normativo de la estrategia de acompañamiento psicosocial para población migrante, fomentando la reflexión sobre su aplicación práctica y la coordinación interinstitucional.',
       barajarPreguntas: true,
       preguntas: [
         {

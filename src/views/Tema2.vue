@@ -117,6 +117,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             p Dentro de este marco de gobernanza, se integran disposiciones normativas que orientan la atención y la protección de la población migrante y retornada. Entre ellas se encuentran la Ley 1565 de 2012 (Ley del Retorno), que establece mecanismos para la reintegración de connacionales; el Decreto 216 de 2021, que reglamenta el Estatuto Temporal de Protección para Migrantes Venezolanos (ETPV); y el CONPES 4100 (DNP, 2022), que define estrategias de gobernanza migratoria y prioriza el bienestar psicosocial y la integración comunitaria.
+            <br /> <br />
             p.mb-0 A su vez, la cooperación técnica del ACNUR y la OIM fortalece las capacidades institucionales mediante la transferencia de conocimientos, el apoyo técnico y la promoción de buenas prácticas, contribuyendo a que los territorios implementen procesos psicosociales sostenibles y culturalmente pertinentes.
 
     p Este conjunto de esfuerzos articulados permite consolidar un sistema de acompañamiento psicosocial que responde a las necesidades reales de la población, evita la duplicación de acciones y garantiza intervenciones integrales y coordinadas en todos los niveles.
