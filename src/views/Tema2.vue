@@ -33,7 +33,7 @@
           img.d-lg-none.d-flex(src='@/assets/curso/tema2/img03.svg' alt="La figura 2 representa el proceso de intervención psicosocial dividido en diagnóstico, intervención y seguimiento, como fases secuenciales y complementarias.")
 
       .col-lg-10.mb-5
-        PasosA.color-acento-contenido.mb-5(tipo="l")
+        PasosA.color-acento-contenido(tipo="l")
           div(data-aos="fade-left")
             p.mb-0 La primera etapa, correspondiente al diagnóstico, se centra en la identificación de factores de riesgo y protección, así como en la caracterización de los contextos familiares, sociales y comunitarios. Este análisis inicial permite reconocer las particularidades de la población migrante, retornada y de acogida, y establece las bases para una intervención pertinente.
           div(data-aos="fade-right")

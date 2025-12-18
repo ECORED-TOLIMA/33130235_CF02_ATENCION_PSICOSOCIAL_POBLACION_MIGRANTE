@@ -16,7 +16,7 @@
 
     p.mb-5 Este marco incorpora los compromisos asumidos por el país en los ámbitos nacional e internacional, entre los que se destacan la Política Integral Migratoria (Ley 2136 de 2021), la Ley 1616 de 2013, que establece el marco de acción para la salud mental en Colombia, y las orientaciones del Ministerio de Salud y Protección Social, las cuales definen principios, enfoques y procedimientos para la intervención psicosocial en contextos de movilidad humana.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-end.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img02.png' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
@@ -101,7 +101,7 @@
     .row.justify-content-center.mb-5
       .col-lg-11
         .tarjeta-avatar-b(data-aos="fade-right")
-          .tarjeta-avatar-b__img(style="min-width: 10%; left: -3%")
+          .tarjeta-avatar-b__img(style="min-width: 10%; left: 0%")
             img(src='@/assets/curso/tema3/img05.svg' alt="Imagen decorativa")
           .tarjeta.BG01
             .p-4
