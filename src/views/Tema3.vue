@@ -188,17 +188,12 @@
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-         AcordionA.color-acento-botones(tipo="b" clase-tarjeta="tarjeta BG03" data-aos="zoom-in")
-          div(titulo="Diagnóstico y caracterización")
-            p.mb-0 Incluye identificación de necesidades individuales, familiares y comunitarias, mapeo de factores de riesgo y protección, y análisis de condiciones socioculturales de la población migrante y de acogida.
-          div(titulo="Planificación de la intervención")
-            p.mb-0 Define objetivos, actividades, metodologías y responsables, articulando la oferta institucional y las necesidades detectadas en el diagnóstico.
-          div(titulo="Ejecución participativa")
-            p.mb-0 Despliega acciones individuales, familiares y comunitarias como orientación psicosocial, grupos de apoyo, actividades culturales y procesos de integración social, incorporando enfoques diferenciales.
-          div(titulo="Seguimiento y evaluación")
-            p.mb-0 Monitorea avances, identifica alertas, retroalimenta el proceso y ajusta las estrategias según la evolución de los casos y la respuesta comunitaria.
-          div(titulo="Retroalimentación interinstitucional")
-            p.mb-0 Fortalece la coordinación entre sectores, garantiza continuidad en los procesos y facilita la articulación con salud, protección y cooperación internacional.
+        LineaTiempoD.color-acento-botones.especial
+          p.mb-0(numero="1" titulo="Diagnóstico y caracterización") Incluye identificación de necesidades individuales, familiares y comunitarias, mapeo de factores de riesgo y protección, y análisis de condiciones socioculturales de la población migrante y de acogida.
+          p.mb-0(numero="2" titulo="Planificación de la intervención") Define objetivos, actividades, metodologías y responsables, articulando la oferta institucional y las necesidades detectadas en el diagnóstico.
+          p.mb-0(numero="3" titulo="Ejecución participativa") Despliega acciones individuales, familiares y comunitarias como orientación psicosocial, grupos de apoyo, actividades culturales y procesos de integración social, incorporando enfoques diferenciales.
+          p.mb-0(numero="4" titulo="Seguimiento y evaluación") Monitorea avances, identifica alertas, retroalimenta el proceso y ajusta las estrategias según la evolución de los casos y la respuesta comunitaria.
+          p.mb-0(numero="5" titulo="Retroalimentación interinstitucional") Fortalece la coordinación entre sectores, garantiza continuidad en los procesos y facilita la articulación con salud, protección y cooperación internacional.
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.px-4.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img16.png' alt="Imagen decorativa")
 

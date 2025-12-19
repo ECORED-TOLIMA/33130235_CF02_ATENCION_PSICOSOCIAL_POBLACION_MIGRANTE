@@ -119,43 +119,43 @@
     .tarjeta.BGIMG02.p-4.mb-5(data-aos="zoom-in")
       SlyderA.color-acento-botones.arrow-white(tipo="b")
         .row.justify-content-center
-          .col-lg-5.order-lg-1.order-2
+          .col-lg-4.order-lg-1.order-2
             .h4 Enfoque psicosocial
             p.mb-0 Se reconoce como un enfoque transversal en los procesos de atención y acompañamiento a personas, familias y comunidades vulnerables. Está orientado a comprender los efectos de la experiencia migratoria, dar lugar a las vivencias, facilitar el procesamiento emocional y promover el fortalecimiento de los recursos de afrontamiento.
           .col-lg-7.col-10.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img16.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-5.order-lg-1.order-2
+          .col-lg-4.order-lg-1.order-2
             .h4 Enfoque de derechos humanos
             p.mb-0 Reconoce a los sujetos como titulares de derechos y orienta las políticas públicas hacia su garantía efectiva. En el contexto migratorio, invita a identificar las condiciones de vulnerabilidad presentes durante el tránsito, la llegada y la permanencia en el país de acogida, las cuales pueden estar acompañadas de situaciones de vulneración de derechos.
           .col-lg-7.col-10.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img17.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-5.order-lg-1.order-2
+          .col-lg-4.order-lg-1.order-2
             .h4 Enfoque diferencial
             p.mb-0 Es un método de análisis que permite comprender la situación de derechos y vulnerabilidad de diversos grupos poblacionales. Considera las particularidades individuales y colectivas con el fin de reconocer desigualdades, promover la no discriminación y garantizar intervenciones pertinentes que reconozcan la diversidad.
           .col-lg-7.col-10.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img18.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-5.order-lg-1.order-2
+          .col-lg-4.order-lg-1.order-2
             .h4 Enfoque de género
             p.mb-0 Permite analizar las relaciones de poder entre géneros y visibilizar desigualdades y discriminaciones. Su incorporación implica adoptar estrategias metodológicas que favorezcan la equidad, identifiquen imaginarios sociales y garanticen la participación efectiva de mujeres, hombres y personas con identidades diversas en los procesos de acompañamiento psicosocial.
           .col-lg-7.col-10.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img19.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-5.order-lg-1.order-2
+          .col-lg-4.order-lg-1.order-2
             .h4 Enfoque étnico
             p.mb-0 Sustentado en la Constitución Política de 1991, reconoce al país como pluriétnico y multicultural. Este enfoque afirma la diversidad cultural, el derecho al territorio, la autonomía y el autorreconocimiento de los pueblos, así como sus formas particulares de comprender el mundo y el vínculo con la ancestralidad.
           .col-lg-7.col-10.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img20.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-5.order-lg-1.order-2
+          .col-lg-4.order-lg-1.order-2
             .h4 Enfoque de movilidad humana
             p.mb-0 Promueve la formulación de políticas públicas que respondan de manera integral a los fenómenos asociados a la movilidad humana, considerando las necesidades de las personas migrantes y de las comunidades receptoras.
           .col-lg-7.col-10.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img21.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-5.order-lg-1.order-2
+          .col-lg-4.order-lg-1.order-2
             .h4 Enfoque de acción sin daño
             p.mb-0 Busca que las acciones desarrolladas se fundamenten en un análisis ético que minimice la posibilidad de generar afectaciones involuntarias. Reconoce que ningún profesional está exento de generar daño y promueve prácticas responsables y conscientes.
           .col-lg-7.col-10.order-1.mb-lg-0.mb-4
