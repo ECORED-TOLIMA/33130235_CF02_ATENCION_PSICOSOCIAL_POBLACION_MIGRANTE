@@ -13,7 +13,8 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'tema_actividad_didactica',
+      tema:
+        'Evaluar la comprensión de los aprendices sobre los fundamentos, etapas, herramientas y marco normativo de la estrategia de acompañamiento psicosocial para población migrante, fomentando la reflexión sobre su aplicación práctica y la coordinación interinstitucional.',
       titulo: 'Cuestionario',
       introduccion:
         'Evaluar la comprensión de los aprendices sobre los fundamentos, etapas, herramientas y marco normativo de la estrategia de acompañamiento psicosocial para población migrante, fomentando la reflexión sobre su aplicación práctica y la coordinación interinstitucional.',
